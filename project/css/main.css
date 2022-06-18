@@ -1,0 +1,129 @@
+body{
+    background-color: bisque;
+    overscroll-behavior: none;
+ }
+ #text1 {
+    font-family: Monaco;
+  }
+  #fareOutput {
+    font-family: Monaco;
+  }
+  #distanceOutput{
+    font-family: Monaco;
+  }
+  .column {
+    float: left;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+  div.ex3 {
+    background-color: lightblue;
+    height: 150px;
+    width: 300px;
+    overflow-y: auto;
+}
+ 
+  .mdl-button1 {
+    left: 15px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: deeppink;
+  }
+ 
+  .mdl-button2 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightblue;
+  }
+  
+  .mdl-button3 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightblue;
+  }
+
+  .mdl-button4 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightblue;
+  }
+
+  .mdl-button5 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightblue;
+  }
+
+  .mdl-button6 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightblue;
+  }
+
+  .mdl-button7 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color:lightgreen;
+  }
+
+  .mdl-button8 {
+    left: 15px;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: lightpink;
+  }
+ 
+  .addStops {
+    width: 10px;
+    color: #f98ad3;
+  }
+ 
+  .demo-list-item {
+ 
+    width: 300px;
+ 
+    border: 2px solid black;
+    text-align: center;
+    padding: 0px;
+  }
+
+  .testing {
+    position:fixed;
+    text-align: center;
+  }
+  .demo-list-item1 {
+
+    width: 300px;
+
+    border: 2px solid black;
+    align-items: center;
+ }
+ .material-icons {
+  font-size: 36px;
+}
+
+.taxiDetails {
+  font-size: 15px;
+}
+
+  
+ 
+  
